@@ -31,7 +31,7 @@
 **Завдання 1**
 
 ![Кодова таблиця Windows CP1251](Кодова%20таблиця%20Windows%20CP1251.png)
-
+[![ASCII таблиця](ascii_таблиця.png)](ascii_map.txt)
 **Завдання 2**
 
 [![ASCII (Windows cp1251)_Прізвища](ASCII%20(Windows%20cp1251)_Прізвища.png)](ascii.txt) 
